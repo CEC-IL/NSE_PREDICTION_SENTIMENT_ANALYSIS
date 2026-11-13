@@ -1,0 +1,4 @@
+source_year,issue,flagged_records
+2012,zero_previous,1
+2018,day_price_outside_daily_range,2
+2022,day_price_outside_daily_range,10

@@ -1,0 +1,248 @@
+year,standard_column,source_column
+2007,date,DATE
+2007,code,CODE
+2007,name,NAME
+2007,12m_low,12m Low
+2007,12m_high,12m High
+2007,day_low,Day Low
+2007,day_high,Day High
+2007,day_price,Day Price
+2007,previous,Previous
+2007,change,Change
+2007,change_pct,Change%
+2007,volume,Volume
+2007,adjusted_price,Adjust
+2008,date,Date
+2008,code,CODE
+2008,name,NAME
+2008,12m_low,12m Low
+2008,12m_high,12m High
+2008,day_low,Day Low
+2008,day_high,Day High
+2008,day_price,Day Price
+2008,previous,Previous
+2008,change,Change
+2008,change_pct,Change%
+2008,volume,Volume
+2008,adjusted_price,Adjusted
+2009,date,DATE
+2009,code,CODE
+2009,name,NAME
+2009,12m_low,12m Low
+2009,12m_high,12m High
+2009,day_low,Day Low
+2009,day_high,Day High
+2009,day_price,Day Price
+2009,previous,Previous
+2009,change,Change
+2009,change_pct,Change%
+2009,volume,Volume
+2009,adjusted_price,Adjust
+2010,date,DATE
+2010,code,CODE
+2010,name,NAME
+2010,12m_low,12m Low
+2010,12m_high,12m High
+2010,day_low,Day Low
+2010,day_high,Day High
+2010,day_price,Day Price
+2010,previous,Previous
+2010,change,Change
+2010,change_pct,Change%
+2010,volume,Volume
+2010,adjusted_price,Adjust
+2011,date,DATE
+2011,code,CODE
+2011,name,NAME
+2011,12m_low,12m Low
+2011,12m_high,12m High
+2011,day_low,Day Low
+2011,day_high,Day High
+2011,day_price,Day Price
+2011,previous,Previous
+2011,change,Change
+2011,change_pct,Change%
+2011,volume,Volume
+2011,adjusted_price,Adjust
+2012,date,DATE
+2012,code,CODE
+2012,name,NAME
+2012,12m_low,12m Low
+2012,12m_high,12m High
+2012,day_low,Day Low
+2012,day_high,Day High
+2012,day_price,Day Price
+2012,previous,Previous
+2012,change,Change
+2012,change_pct,Change%
+2012,volume,Volume
+2012,adjusted_price,Adjust
+2013,date,DATE
+2013,code,CODE
+2013,name,NAME
+2013,12m_low,12m Low
+2013,12m_high,12m High
+2013,day_low,Day Low
+2013,day_high,Day High
+2013,day_price,Day Price
+2013,previous,Previous
+2013,change,Change
+2013,change_pct,Change%
+2013,volume,Volume
+2013,adjusted_price,Adjust
+2014,date,DATE
+2014,code,CODE
+2014,name,NAME
+2014,12m_low,12m Low
+2014,12m_high,12m High
+2014,day_low,Day Low
+2014,day_high,Day High
+2014,day_price,Day Price
+2014,previous,Previous
+2014,change,Change
+2014,change_pct,Change%
+2014,volume,Volume
+2014,adjusted_price,Adjust
+2015,date,DATE
+2015,code,CODE
+2015,name,NAME
+2015,12m_low,12m Low
+2015,12m_high,12m High
+2015,day_low,Day Low
+2015,day_high,Day High
+2015,day_price,Day Price
+2015,previous,Previous
+2015,change,Change
+2015,change_pct,Change%
+2015,volume,Volume
+2015,adjusted_price,Adjust
+2016,date,DATE
+2016,code,CODE
+2016,name,NAME
+2016,12m_low,12m Low
+2016,12m_high,12m High
+2016,day_low,Day Low
+2016,day_high,Day High
+2016,day_price,Day Price
+2016,previous,Previous
+2016,change,Change
+2016,change_pct,Change%
+2016,volume,Volume
+2016,adjusted_price,Adjust
+2017,date,DATE
+2017,code,CODE
+2017,name,NAME
+2017,12m_low,12m Low
+2017,12m_high,12m High
+2017,day_low,Day Low
+2017,day_high,Day High
+2017,day_price,Day Price
+2017,previous,Previous
+2017,change,Change
+2017,change_pct,Change%
+2017,volume,Volume
+2017,adjusted_price,Adjust
+2018,date,DATE
+2018,code,CODE
+2018,name,NAME
+2018,12m_low,12m Low
+2018,12m_high,12m High
+2018,day_low,Day Low
+2018,day_high,Day High
+2018,day_price,Day Price
+2018,previous,Previous
+2018,change,Change
+2018,change_pct,Change%
+2018,volume,Volume
+2018,adjusted_price,Adjust
+2019,date,DATE
+2019,code,CODE
+2019,name,NAME
+2019,12m_low,12m Low
+2019,12m_high,12m High
+2019,day_low,Day Low
+2019,day_high,Day High
+2019,day_price,Day Price
+2019,previous,Previous
+2019,change,Change
+2019,change_pct,Change%
+2019,volume,Volume
+2019,adjusted_price,Adjust
+2020,date,DATE
+2020,code,CODE
+2020,name,NAME
+2020,12m_low,12m Low
+2020,12m_high,12m High
+2020,day_low,Day Low
+2020,day_high,Day High
+2020,day_price,Day Price
+2020,previous,Previous
+2020,change,Change
+2020,change_pct,Change%
+2020,volume,Volume
+2020,adjusted_price,Adjust
+2021,date,DATE
+2021,code,CODE
+2021,name,NAME
+2021,12m_low,12m Low
+2021,12m_high,12m High
+2021,day_low,Day Low
+2021,day_high,Day High
+2021,day_price,Day Price
+2021,previous,Previous
+2021,change,Change
+2021,change_pct,Change%
+2021,volume,Volume
+2021,adjusted_price,Adjust
+2022,date,Date
+2022,code,Code
+2022,name,Name
+2022,12m_low,12m Low
+2022,12m_high,12m High
+2022,day_low,Day Low
+2022,day_high,Day High
+2022,day_price,Day Price
+2022,previous,Previous
+2022,change,Change
+2022,change_pct,Change%
+2022,volume,Volume
+2022,adjusted_price,Adjusted Price
+2023,date,Date
+2023,code,Code
+2023,name,Name
+2023,12m_low,12m Low
+2023,12m_high,12m High
+2023,day_low,Day Low
+2023,day_high,Day High
+2023,day_price,Day Price
+2023,previous,Previous
+2023,change,Change
+2023,change_pct,Change%
+2023,volume,Volume
+2023,adjusted_price,Adjusted Price
+2024,date,Date
+2024,code,Code
+2024,name,Name
+2024,12m_low,12m Low
+2024,12m_high,12m High
+2024,day_low,Day Low
+2024,day_high,Day High
+2024,day_price,Day Price
+2024,previous,Previous
+2024,change,Change
+2024,change_pct,Change%
+2024,volume,Volume
+2024,adjusted_price,Adjusted Price
+2025,date,Date
+2025,code,Code
+2025,name,Name
+2025,12m_low,12m Low
+2025,12m_high,12m High
+2025,day_low,Day Low
+2025,day_high,Day High
+2025,day_price,Day Price
+2025,previous,Previous
+2025,change,Change
+2025,change_pct,Change%
+2025,volume,Volume
+2025,adjusted_price,Adjusted Price

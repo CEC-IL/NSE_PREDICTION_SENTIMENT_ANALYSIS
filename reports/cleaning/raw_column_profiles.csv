@@ -1,0 +1,248 @@
+file_name,column_name,data_type,missing_values,dash_placeholders,unique_values
+NSE_data_all_stocks_2007.csv,DATE,str,0,0,248
+NSE_data_all_stocks_2007.csv,CODE,str,0,0,55
+NSE_data_all_stocks_2007.csv,NAME,str,23,0,52
+NSE_data_all_stocks_2007.csv,12m Low,str,0,0,73
+NSE_data_all_stocks_2007.csv,12m High,str,0,0,62
+NSE_data_all_stocks_2007.csv,Day Low,str,0,0,920
+NSE_data_all_stocks_2007.csv,Day High,str,0,0,917
+NSE_data_all_stocks_2007.csv,Day Price,str,0,0,971
+NSE_data_all_stocks_2007.csv,Previous,str,0,0,969
+NSE_data_all_stocks_2007.csv,Change,str,0,1980,426
+NSE_data_all_stocks_2007.csv,Change%,str,0,1981,917
+NSE_data_all_stocks_2007.csv,Volume,str,0,0,3455
+NSE_data_all_stocks_2007.csv,Adjust,str,0,5368,1291
+NSE_data_all_stocks_2008.csv,Date,str,0,0,249
+NSE_data_all_stocks_2008.csv,CODE,str,0,0,56
+NSE_data_all_stocks_2008.csv,NAME,str,25,0,54
+NSE_data_all_stocks_2008.csv,12m Low,str,0,0,74
+NSE_data_all_stocks_2008.csv,12m High,str,0,0,65
+NSE_data_all_stocks_2008.csv,Day Low,str,0,0,1203
+NSE_data_all_stocks_2008.csv,Day High,str,0,0,1190
+NSE_data_all_stocks_2008.csv,Day Price,str,0,0,1239
+NSE_data_all_stocks_2008.csv,Previous,str,0,1,1241
+NSE_data_all_stocks_2008.csv,Change,str,0,2122,528
+NSE_data_all_stocks_2008.csv,Change%,str,0,2124,908
+NSE_data_all_stocks_2008.csv,Volume,str,0,0,3386
+NSE_data_all_stocks_2008.csv,Adjusted,str,0,6262,1063
+NSE_data_all_stocks_2009.csv,DATE,str,0,0,247
+NSE_data_all_stocks_2009.csv,CODE,str,0,0,59
+NSE_data_all_stocks_2009.csv,NAME,str,0,0,59
+NSE_data_all_stocks_2009.csv,12m Low,str,0,0,81
+NSE_data_all_stocks_2009.csv,12m High,str,0,0,67
+NSE_data_all_stocks_2009.csv,Day Low,str,0,0,1118
+NSE_data_all_stocks_2009.csv,Day High,str,0,0,1114
+NSE_data_all_stocks_2009.csv,Day Price,str,0,0,1136
+NSE_data_all_stocks_2009.csv,Previous,str,0,4,1137
+NSE_data_all_stocks_2009.csv,Change,str,0,6783,477
+NSE_data_all_stocks_2009.csv,Change%,str,0,6784,789
+NSE_data_all_stocks_2009.csv,Volume,str,0,0,2884
+NSE_data_all_stocks_2009.csv,Adjust,str,0,9793,897
+NSE_data_all_stocks_2010.csv,DATE,str,0,0,253
+NSE_data_all_stocks_2010.csv,CODE,str,0,0,63
+NSE_data_all_stocks_2010.csv,NAME,str,0,0,63
+NSE_data_all_stocks_2010.csv,12m Low,str,0,0,85
+NSE_data_all_stocks_2010.csv,12m High,str,0,0,70
+NSE_data_all_stocks_2010.csv,Day Low,str,0,0,1232
+NSE_data_all_stocks_2010.csv,Day High,str,0,0,1236
+NSE_data_all_stocks_2010.csv,Day Price,str,0,0,1249
+NSE_data_all_stocks_2010.csv,Previous,str,0,3,1248
+NSE_data_all_stocks_2010.csv,Change,str,0,6098,484
+NSE_data_all_stocks_2010.csv,Change%,str,0,6100,838
+NSE_data_all_stocks_2010.csv,Volume,str,0,0,3584
+NSE_data_all_stocks_2010.csv,Adjust,str,0,11282,933
+NSE_data_all_stocks_2011.csv,DATE,str,0,0,250
+NSE_data_all_stocks_2011.csv,CODE,str,0,0,61
+NSE_data_all_stocks_2011.csv,NAME,str,0,0,61
+NSE_data_all_stocks_2011.csv,12m Low,str,0,0,62
+NSE_data_all_stocks_2011.csv,12m High,str,0,0,56
+NSE_data_all_stocks_2011.csv,Day Low,str,0,0,1260
+NSE_data_all_stocks_2011.csv,Day High,str,0,0,1260
+NSE_data_all_stocks_2011.csv,Day Price,str,0,0,1262
+NSE_data_all_stocks_2011.csv,Previous,str,0,1,1264
+NSE_data_all_stocks_2011.csv,Change,str,0,6243,472
+NSE_data_all_stocks_2011.csv,Change%,str,0,6244,782
+NSE_data_all_stocks_2011.csv,Volume,str,0,0,3428
+NSE_data_all_stocks_2011.csv,Adjust,str,0,12957,482
+NSE_data_all_stocks_2012.csv,DATE,str,0,0,251
+NSE_data_all_stocks_2012.csv,CODE,str,0,0,69
+NSE_data_all_stocks_2012.csv,NAME,str,0,0,69
+NSE_data_all_stocks_2012.csv,12m Low,str,0,0,88
+NSE_data_all_stocks_2012.csv,12m High,str,0,0,88
+NSE_data_all_stocks_2012.csv,Day Low,str,0,0,1307
+NSE_data_all_stocks_2012.csv,Day High,str,0,0,1305
+NSE_data_all_stocks_2012.csv,Day Price,str,0,0,1330
+NSE_data_all_stocks_2012.csv,Previous,str,0,3,1331
+NSE_data_all_stocks_2012.csv,Change,str,0,7137,472
+NSE_data_all_stocks_2012.csv,Change%,str,0,7140,796
+NSE_data_all_stocks_2012.csv,Volume,str,0,0,3553
+NSE_data_all_stocks_2012.csv,Adjust,str,0,15333,191
+NSE_data_all_stocks_2013.csv,DATE,str,0,0,247
+NSE_data_all_stocks_2013.csv,CODE,str,0,0,62
+NSE_data_all_stocks_2013.csv,NAME,str,0,0,62
+NSE_data_all_stocks_2013.csv,12m Low,str,0,0,90
+NSE_data_all_stocks_2013.csv,12m High,str,0,0,101
+NSE_data_all_stocks_2013.csv,Day Low,str,0,0,1811
+NSE_data_all_stocks_2013.csv,Day High,str,0,0,1807
+NSE_data_all_stocks_2013.csv,Day Price,str,0,0,2146
+NSE_data_all_stocks_2013.csv,Previous,str,0,1,2147
+NSE_data_all_stocks_2013.csv,Change,str,0,5096,677
+NSE_data_all_stocks_2013.csv,Change%,str,0,5099,785
+NSE_data_all_stocks_2013.csv,Volume,str,0,3231,4443
+NSE_data_all_stocks_2013.csv,Adjust,str,0,10521,1040
+NSE_data_all_stocks_2014.csv,DATE,str,1,0,251
+NSE_data_all_stocks_2014.csv,CODE,str,1,0,65
+NSE_data_all_stocks_2014.csv,NAME,str,1,0,65
+NSE_data_all_stocks_2014.csv,12m Low,str,1,0,96
+NSE_data_all_stocks_2014.csv,12m High,str,1,0,102
+NSE_data_all_stocks_2014.csv,Day Low,str,1,0,1932
+NSE_data_all_stocks_2014.csv,Day High,str,1,0,1935
+NSE_data_all_stocks_2014.csv,Day Price,str,1,0,2361
+NSE_data_all_stocks_2014.csv,Previous,str,1,0,2359
+NSE_data_all_stocks_2014.csv,Change,str,1,4675,765
+NSE_data_all_stocks_2014.csv,Change%,str,1,4681,857
+NSE_data_all_stocks_2014.csv,Volume,str,1,2957,4881
+NSE_data_all_stocks_2014.csv,Adjust,str,1,11655,1190
+NSE_data_all_stocks_2015.csv,DATE,str,0,0,251
+NSE_data_all_stocks_2015.csv,CODE,str,0,0,67
+NSE_data_all_stocks_2015.csv,NAME,str,0,0,67
+NSE_data_all_stocks_2015.csv,12m Low,str,0,0,99
+NSE_data_all_stocks_2015.csv,12m High,str,0,0,107
+NSE_data_all_stocks_2015.csv,Day Low,str,0,0,2027
+NSE_data_all_stocks_2015.csv,Day High,str,0,0,2037
+NSE_data_all_stocks_2015.csv,Day Price,str,0,0,2514
+NSE_data_all_stocks_2015.csv,Previous,str,0,0,2512
+NSE_data_all_stocks_2015.csv,Change,str,0,5357,841
+NSE_data_all_stocks_2015.csv,Change%,str,0,5361,865
+NSE_data_all_stocks_2015.csv,Volume,str,0,3732,4280
+NSE_data_all_stocks_2015.csv,Adjust,str,0,12791,1132
+NSE_data_all_stocks_2016.csv,DATE,str,0,0,248
+NSE_data_all_stocks_2016.csv,CODE,str,0,0,69
+NSE_data_all_stocks_2016.csv,NAME,str,0,0,69
+NSE_data_all_stocks_2016.csv,12m Low,str,0,0,99
+NSE_data_all_stocks_2016.csv,12m High,str,0,0,104
+NSE_data_all_stocks_2016.csv,Day Low,str,0,0,1979
+NSE_data_all_stocks_2016.csv,Day High,str,0,0,1975
+NSE_data_all_stocks_2016.csv,Day Price,str,0,0,2411
+NSE_data_all_stocks_2016.csv,Previous,str,0,1,2412
+NSE_data_all_stocks_2016.csv,Change,str,0,5961,885
+NSE_data_all_stocks_2016.csv,Change%,str,0,5966,863
+NSE_data_all_stocks_2016.csv,Volume,str,0,4373,3810
+NSE_data_all_stocks_2016.csv,Adjust,str,0,14355,782
+NSE_data_all_stocks_2017.csv,DATE,str,0,0,243
+NSE_data_all_stocks_2017.csv,CODE,str,0,0,70
+NSE_data_all_stocks_2017.csv,NAME,str,0,0,70
+NSE_data_all_stocks_2017.csv,12m Low,str,0,0,101
+NSE_data_all_stocks_2017.csv,12m High,str,0,0,112
+NSE_data_all_stocks_2017.csv,Day Low,str,0,0,1998
+NSE_data_all_stocks_2017.csv,Day High,str,0,0,2019
+NSE_data_all_stocks_2017.csv,Day Price,str,0,0,2386
+NSE_data_all_stocks_2017.csv,Previous,str,0,1,2385
+NSE_data_all_stocks_2017.csv,Change,str,0,6587,951
+NSE_data_all_stocks_2017.csv,Change%,str,0,6597,835
+NSE_data_all_stocks_2017.csv,Volume,str,0,4664,4017
+NSE_data_all_stocks_2017.csv,Adjust,str,0,15350,561
+NSE_data_all_stocks_2018.csv,DATE,str,1,0,250
+NSE_data_all_stocks_2018.csv,CODE,str,1,0,73
+NSE_data_all_stocks_2018.csv,NAME,str,1,0,73
+NSE_data_all_stocks_2018.csv,12m Low,str,1,0,104
+NSE_data_all_stocks_2018.csv,12m High,str,1,0,116
+NSE_data_all_stocks_2018.csv,Day Low,str,1,0,2343
+NSE_data_all_stocks_2018.csv,Day High,str,1,0,2362
+NSE_data_all_stocks_2018.csv,Day Price,str,1,0,2823
+NSE_data_all_stocks_2018.csv,Previous,str,1,1,2815
+NSE_data_all_stocks_2018.csv,Change,str,1,6935,1160
+NSE_data_all_stocks_2018.csv,Change%,str,1,6938,853
+NSE_data_all_stocks_2018.csv,Volume,str,1,4985,3703
+NSE_data_all_stocks_2018.csv,Adjust,str,1,16985,233
+NSE_data_all_stocks_2019.csv,DATE,str,0,0,250
+NSE_data_all_stocks_2019.csv,CODE,str,0,0,73
+NSE_data_all_stocks_2019.csv,NAME,str,0,0,73
+NSE_data_all_stocks_2019.csv,12m Low,str,0,0,105
+NSE_data_all_stocks_2019.csv,12m High,str,0,0,115
+NSE_data_all_stocks_2019.csv,Day Low,str,0,1,3327
+NSE_data_all_stocks_2019.csv,Day High,str,0,1,3322
+NSE_data_all_stocks_2019.csv,Day Price,str,0,1,3665
+NSE_data_all_stocks_2019.csv,Previous,str,0,0,3666
+NSE_data_all_stocks_2019.csv,Change,str,0,6845,1334
+NSE_data_all_stocks_2019.csv,Change%,str,0,6854,933
+NSE_data_all_stocks_2019.csv,Volume,str,0,6460,3179
+NSE_data_all_stocks_2019.csv,Adjust,str,0,17943,72
+NSE_data_all_stocks_2020.csv,DATE,str,0,0,252
+NSE_data_all_stocks_2020.csv,CODE,str,0,0,71
+NSE_data_all_stocks_2020.csv,NAME,str,0,0,71
+NSE_data_all_stocks_2020.csv,12m Low,str,0,0,141
+NSE_data_all_stocks_2020.csv,12m High,str,0,0,249
+NSE_data_all_stocks_2020.csv,Day Low,str,0,0,3448
+NSE_data_all_stocks_2020.csv,Day High,str,0,0,3421
+NSE_data_all_stocks_2020.csv,Day Price,str,0,0,3773
+NSE_data_all_stocks_2020.csv,Previous,str,0,0,3772
+NSE_data_all_stocks_2020.csv,Change,str,0,7075,1430
+NSE_data_all_stocks_2020.csv,Change%,str,0,7080,942
+NSE_data_all_stocks_2020.csv,Volume,str,0,6746,4070
+NSE_data_all_stocks_2020.csv,Adjust,str,0,17892,1
+NSE_data_all_stocks_2021.csv,DATE,str,0,0,250
+NSE_data_all_stocks_2021.csv,CODE,str,0,0,71
+NSE_data_all_stocks_2021.csv,NAME,str,0,0,71
+NSE_data_all_stocks_2021.csv,12m Low,str,0,0,413
+NSE_data_all_stocks_2021.csv,12m High,str,0,0,437
+NSE_data_all_stocks_2021.csv,Day Low,str,0,0,3829
+NSE_data_all_stocks_2021.csv,Day High,str,0,0,3759
+NSE_data_all_stocks_2021.csv,Day Price,str,0,0,4063
+NSE_data_all_stocks_2021.csv,Previous,str,0,0,4064
+NSE_data_all_stocks_2021.csv,Change,str,0,6699,1318
+NSE_data_all_stocks_2021.csv,Change%,str,0,6704,919
+NSE_data_all_stocks_2021.csv,Volume,str,0,6207,4025
+NSE_data_all_stocks_2021.csv,Adjust,str,0,17740,6
+NSE_data_all_stocks_2022.csv,Date,str,0,0,246
+NSE_data_all_stocks_2022.csv,Code,str,0,0,71
+NSE_data_all_stocks_2022.csv,Name,str,0,0,73
+NSE_data_all_stocks_2022.csv,12m Low,str,0,0,209
+NSE_data_all_stocks_2022.csv,12m High,str,0,0,154
+NSE_data_all_stocks_2022.csv,Day Low,str,0,32,2358
+NSE_data_all_stocks_2022.csv,Day High,str,0,32,2294
+NSE_data_all_stocks_2022.csv,Day Price,str,0,0,2649
+NSE_data_all_stocks_2022.csv,Previous,str,0,0,2650
+NSE_data_all_stocks_2022.csv,Change,str,0,7071,868
+NSE_data_all_stocks_2022.csv,Change%,str,0,7076,922
+NSE_data_all_stocks_2022.csv,Volume,str,0,5575,2751
+NSE_data_all_stocks_2022.csv,Adjusted Price,str,0,16747,45
+NSE_data_all_stocks_2023.csv,Date,str,0,0,243
+NSE_data_all_stocks_2023.csv,Code,str,0,0,72
+NSE_data_all_stocks_2023.csv,Name,str,0,0,72
+NSE_data_all_stocks_2023.csv,12m Low,str,0,0,71
+NSE_data_all_stocks_2023.csv,12m High,str,0,0,71
+NSE_data_all_stocks_2023.csv,Day Low,str,0,0,2893
+NSE_data_all_stocks_2023.csv,Day High,str,0,0,2861
+NSE_data_all_stocks_2023.csv,Day Price,str,0,0,3234
+NSE_data_all_stocks_2023.csv,Previous,str,0,1,3231
+NSE_data_all_stocks_2023.csv,Change,str,0,7091,1251
+NSE_data_all_stocks_2023.csv,Change%,str,0,7099,1623
+NSE_data_all_stocks_2023.csv,Volume,str,0,6250,2574
+NSE_data_all_stocks_2023.csv,Adjusted Price,str,0,17274,1
+NSE_data_all_stocks_2024.csv,Date,str,0,0,249
+NSE_data_all_stocks_2024.csv,Code,str,0,0,74
+NSE_data_all_stocks_2024.csv,Name,str,0,0,74
+NSE_data_all_stocks_2024.csv,12m Low,str,0,0,172
+NSE_data_all_stocks_2024.csv,12m High,str,0,0,238
+NSE_data_all_stocks_2024.csv,Day Low,str,0,0,3354
+NSE_data_all_stocks_2024.csv,Day High,str,0,0,3280
+NSE_data_all_stocks_2024.csv,Day Price,str,0,0,3677
+NSE_data_all_stocks_2024.csv,Previous,str,0,0,3671
+NSE_data_all_stocks_2024.csv,Change,str,0,7033,1442
+NSE_data_all_stocks_2024.csv,Change%,str,0,7050,1681
+NSE_data_all_stocks_2024.csv,Volume,str,0,6644,3047
+NSE_data_all_stocks_2024.csv,Adjusted Price,str,0,18119,1
+NSE_data_all_stocks_2025.csv,Date,str,0,0,208
+NSE_data_all_stocks_2025.csv,Code,str,0,0,75
+NSE_data_all_stocks_2025.csv,Name,str,0,0,75
+NSE_data_all_stocks_2025.csv,12m Low,float64,0,0,123
+NSE_data_all_stocks_2025.csv,12m High,float64,0,0,165
+NSE_data_all_stocks_2025.csv,Day Low,float64,0,0,3417
+NSE_data_all_stocks_2025.csv,Day High,float64,0,0,3348
+NSE_data_all_stocks_2025.csv,Day Price,float64,0,0,3828
+NSE_data_all_stocks_2025.csv,Previous,str,0,1,3823
+NSE_data_all_stocks_2025.csv,Change,str,0,4473,1496
+NSE_data_all_stocks_2025.csv,Change%,str,0,4490,1703
+NSE_data_all_stocks_2025.csv,Volume,str,0,4574,5780
+NSE_data_all_stocks_2025.csv,Adjusted Price,str,0,15114,1

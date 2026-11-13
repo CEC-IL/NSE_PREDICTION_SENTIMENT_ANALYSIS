@@ -1,0 +1,89 @@
+year,original_csv_row,date,code,name
+2009,3418,4/2/2009,KPLC-P7,Kenya Power and Lighting 7%
+2009,3419,4/2/2009,KPLC-P4,Kenya Power and Lighting 4%
+2009,3423,4/2/2009,ORCH,Kenya Orchards
+2009,3428,4/2/2009,BOC,B.O.C Kenya
+2009,3429,4/2/2009,BAUM,A.Baumann
+2009,3468,4/2/2009,UTK,Unilever Tea Kenya
+2009,3471,4/2/2009,LIMT,Limuru Tea
+2009,3473,4/2/2009,KAPC,Kapchorua Tea
+2009,11027,10/8/2009,KPLC-P7,Kenya Power and Lighting 7%
+2009,11028,10/8/2009,KPLC-P4,Kenya Power and Lighting 4%
+2009,11032,10/8/2009,ORCH,Kenya Orchards
+2009,11036,10/8/2009,CARB,Carbacid Investments
+2009,11037,10/8/2009,BOC,B.O.C Kenya
+2009,11038,10/8/2009,BAUM,A.Baumann
+2009,11043,10/8/2009,PAFR,Pan Africa Insurance Holdings
+2009,11056,10/8/2009,UCHM,Uchumi Supermarket
+2009,11072,10/8/2009,MASH,Marshalls (E.A.)
+2009,11077,10/8/2009,UTK,Unilever Tea Kenya
+2009,11080,10/8/2009,LIMT,Limuru Tea
+2017,4059,24-Mar-17,EGAD,Eaagads Ltd
+2017,4060,24-Mar-17,KUKZ,Kakuzi Plc
+2017,4061,24-Mar-17,KAPC,Kapchorua Tea Kenya Plc
+2017,4062,24-Mar-17,LIMT,Limuru Tea Plc
+2017,4063,24-Mar-17,SASN,Sasini Plc
+2017,4064,24-Mar-17,WTK,Williamson Tea Kenya Plc
+2017,4065,24-Mar-17,CGEN,Car and General (K) Ltd
+2017,4066,24-Mar-17,ABSA,ABSA Bank Kenya Plc
+2017,4067,24-Mar-17,COOP,Co-operative Bank of Kenya Ltd
+2017,4068,24-Mar-17,DTK,Diamond Trust Bank Kenya Ltd
+2017,4069,24-Mar-17,EQTY,Equity Group Holdings Plc
+2017,4070,24-Mar-17,HFCK,HF Group Ltd
+2017,4071,24-Mar-17,IMH,I & M Holdings Plc
+2017,4072,24-Mar-17,KCB,KCB Group Plc
+2017,4073,24-Mar-17,NBK,National Bank of Kenya Ltd
+2017,4074,24-Mar-17,NCBA,NCBA Group Plc
+2017,4075,24-Mar-17,SBIC,Stanbic Holdings Plc
+2017,4076,24-Mar-17,SCBK,Standard Chartered Bank Kenya Ltd
+2017,4077,24-Mar-17,DCON,Deacons (East Africa) Plc
+2017,4078,24-Mar-17,EVRD,Eveready East Africa Ltd
+2017,4079,24-Mar-17,XPRS,Express Kenya Plc
+2017,4080,24-Mar-17,KQ,Kenya Airways Plc
+2017,4081,24-Mar-17,LKL,Longhorn Publishers Plc
+2017,4082,24-Mar-17,NBV,Nairobi Business Ventures Ltd
+2017,4083,24-Mar-17,NMG,Nation Media Group Plc
+2017,4084,24-Mar-17,SMER,Sameer Africa Plc
+2017,4085,24-Mar-17,SGL,Standard Group Plc
+2017,4086,24-Mar-17,TPSE,TPS Eastern Africa (Serena) Ltd
+2017,4087,24-Mar-17,UCHM,Uchumi Supermarket Plc
+2017,4088,24-Mar-17,SCAN,WPP ScanGroup Plc
+2017,4089,24-Mar-17,ARM,ARM Cement Plc
+2017,4090,24-Mar-17,BAMB,Bamburi Cement Ltd
+2017,4091,24-Mar-17,CRWN,Crown Paints Kenya Plc
+2017,4092,24-Mar-17,CABL,East African Cables Ltd
+2017,4093,24-Mar-17,PORT,East African Portland Cement Ltd
+2017,4094,24-Mar-17,KENO,KenolKobil Ltd
+2017,4095,24-Mar-17,KEGN,Kenya Electricity Generating Company Plc
+2017,4096,24-Mar-17,KPLC-P4,KPLC-P4
+2017,4097,24-Mar-17,KPLC-P7,KPLC-P7
+2017,4098,24-Mar-17,KPLC,Kenya Power and Lighting Company Plc
+2017,4099,24-Mar-17,TOTL,Total Kenya Ltd
+2017,4100,24-Mar-17,UMME,Umeme Ltd
+2017,4101,24-Mar-17,BRIT,Britam Holdings Plc
+2017,4102,24-Mar-17,CIC,CIC Insurance Group Ltd
+2017,4103,24-Mar-17,JUB,Jubilee Holdings Ltd
+2017,4104,24-Mar-17,KNRE,Kenya Re-Insurance Corporation Ltd
+2017,4105,24-Mar-17,LBTY,Liberty Kenya Holdings Ltd
+2017,4106,24-Mar-17,SLAM,Sanlam Kenya Plc
+2017,4107,24-Mar-17,CTUM,Centum Investment Company Plc
+2017,4108,24-Mar-17,HAFR,Home Afrika Ltd
+2017,4109,24-Mar-17,KURV,Kurwitu Ventures Ltd
+2017,4110,24-Mar-17,OCH,Olympia Capital Holdings Ltd
+2017,4111,24-Mar-17,TCL,Trans-Century Plc
+2017,4112,24-Mar-17,NSE,Nairobi Securities Exchange Plc
+2017,4113,24-Mar-17,BOC,BOC Kenya Plc
+2017,4114,24-Mar-17,BAT,British American Tobacco Kenya Plc
+2017,4115,24-Mar-17,CARB,Carbacid Investments Plc
+2017,4116,24-Mar-17,EABL,East African Breweries Ltd
+2017,4117,24-Mar-17,FTGH,Flame Tree Group Holdings Ltd
+2017,4118,24-Mar-17,ORCH,Kenya Orchards Ltd
+2017,4119,24-Mar-17,MSC,Mumias Sugar Company Ltd
+2017,4120,24-Mar-17,UNGA,Unga Group Ltd
+2017,4121,24-Mar-17,SCOM,Safaricom Plc
+2017,4122,24-Mar-17,FAHR,Stanlib Fahari Income-REIT
+2017,4123,24-Mar-17,^FNK15,FTSE NSE Kenya 15 Index
+2017,4124,24-Mar-17,^FNK25,FTSE NSE Kenya 25 Index
+2017,4125,24-Mar-17,^N20I,NSE 20-Share Index
+2017,4126,24-Mar-17,^N25I,NSE 25-Share Index
+2017,4127,24-Mar-17,^NASI,NSE All-Share Index

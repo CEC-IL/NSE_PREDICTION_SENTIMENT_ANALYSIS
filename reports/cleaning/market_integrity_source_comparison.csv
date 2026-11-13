@@ -1,0 +1,14 @@
+year,date,code,name,issue,source_DATE,source_CODE,source_NAME,source_12m Low,source_12m High,source_Day Low,source_Day High,source_Day Price,source_Previous,source_Change,source_Change%,source_Volume,source_Adjust,source_Date,source_Code,source_Name,source_Adjusted Price
+2012,2012-03-01,LKL,Longhorn Kenya,zero_previous,1/3/2012,LKL,Longhorn Kenya,8.5,21,11.2,11.2,11.2,0,11.2,100.00%,0,-,,,,
+2018,2018-11-27,XPRS,Express Kenya Plc,day_price_outside_daily_range,27-Nov-18,XPRS,Express Kenya Plc,4,7.34,5.36,5.36,5.35,5.3,0.05,0.94%,"1,500",-,,,,
+2018,2018-11-27,UNGA,Unga Group Ltd,day_price_outside_daily_range,27-Nov-18,UNGA,Unga Group Ltd,26.1,37,39.7,39.75,39.5,39.5,-,-,200,-,,,,
+2022,2022-07-26,KCB,KCB Group Plc,day_price_outside_daily_range,,,,15.75,40,40,40,39.65,38.85,0.8,2.06%,"14,700",,26-Jul-22,KCB,KCB Group Plc,-
+2022,2022-07-26,BAMB,Bamburi Cement Ltd,day_price_outside_daily_range,,,,22.5,84,33,33,33.8,33.5,0.3,0.90%,"1,000",,26-Jul-22,BAMB,Bamburi Cement Ltd,-
+2022,2022-12-13,COOP,Co-operative Bank of Kenya Ltd,day_price_outside_daily_range,,,,10.1,15.2,12.2,12.5,12.1,12.1,-,-,"67,700",,13-Dec-22,COOP,Co-operative Bank of Kenya Ltd,-
+2022,2022-12-13,IMH,I & M Holdings Plc,day_price_outside_daily_range,,,,17,35,16.95,16.95,16.9,16.75,0.15,0.90%,"6,800",,13-Dec-22,IMH,I & M Holdings Plc,-
+2022,2022-12-13,NCBA,NCBA Group Plc,day_price_outside_daily_range,,,,34.05,47,31.6,31.6,34.45,35.1,-0.65,1.85%,"1,400",,13-Dec-22,NCBA,NCBA Group Plc,-
+2022,2022-12-13,SCBK,Standard Chartered Bank Kenya Ltd,day_price_outside_daily_range,,,,148,236,135,135,142.25,146,-3.75,2.57%,"1,100",,13-Dec-22,SCBK,Standard Chartered Bank Kenya Ltd,-
+2022,2022-12-13,BAMB,Bamburi Cement Ltd,day_price_outside_daily_range,,,,22.5,84,31.5,31.5,31.4,31.45,-0.05,0.16%,"1,000",,13-Dec-22,BAMB,Bamburi Cement Ltd,-
+2022,2022-12-13,BRIT,Britam Holdings Plc,day_price_outside_daily_range,,,,4.25,6.5,5.1,5.1,5.14,5,0.14,2.80%,"12,100",,13-Dec-22,BRIT,Britam Holdings Plc,-
+2022,2022-12-13,CIC,CIC Insurance Group Ltd,day_price_outside_daily_range,,,,1.93,2.5,1.88,1.88,1.92,1.94,-0.02,1.03%,"31,300",,13-Dec-22,CIC,CIC Insurance Group Ltd,-
+2022,2022-12-13,NSE,Nairobi Securities Exchange Plc,day_price_outside_daily_range,,,,5.22,6.8,6.84,6.86,6.82,6.8,0.02,0.29%,"1,600",,13-Dec-22,NSE,Nairobi Securities Exchange Plc,-

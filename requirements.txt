@@ -1,0 +1,31 @@
+
+# Data processing
+pandas
+numpy
+pyarrow
+
+# Data visualisation
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+statsmodels
+
+# Financial analysis
+ta
+
+# News collection
+requests
+beautifulsoup4
+feedparser
+lxml
+
+# Utilities
+python-dotenv
+tqdm
+joblib
+
+# Reporting
+openpyxl
